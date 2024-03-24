@@ -4,6 +4,10 @@ Analysing grants based on data from Open Source Observer an Arbitrum grant recip
 ### Description
 The Open Source Observer is an Arbitrum grant recipient that hosts a suite analytics tools for the tracking and measurement of impact across different projects within the eco-system. Through data snapshots hosted on Github, the team offers powerful insights about various ecosystem health metrics, such as developer growth, retained users, and contribution to protocol revenues. 
 
+## [Read About Open Source Observer](https://forum.arbitrum.foundation/t/open-source-observer-x-arbitrum/20266/2) <<< Click Here
+
+## [Open Source Observer Data Link](https://github.com/opensource-observer/insights/tree/main/analysis/arbitrum/data) <<< Click Here
+
 <img src="www/img1.png" align="center"/>
 <div align="center">The Open Source Observer</div>
 &nbsp;
